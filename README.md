@@ -1,5 +1,7 @@
 # student-grading
-A quick script to anonymize student-submitted projects and randomly assign peer reviewers for grading
+A quick script to anonymize student-submitted projects and randomly assign peer reviewers for grading.
+
+Note: I've tried to remove personally-identifiable information, including emails, names, etc.
 
 Background: Back in grad school, I was requested to create a script that would help a professor automate 
 the process of 
